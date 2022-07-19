@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "imag": "https://ih1.redbubble.net/image.1895791012.1981/flat,128x128,075,f-pad,128x128,f8f8f8.jpg",
+    "alt": "Manzanas",
+    "titulo": "Manzanas",
+    "texto": "ricas manzanas",
+    "link": "http://jumex.com",
+    "inb": "Ver manzanas"
+  },
+  {
+    "id": 2,
+    "imag": "https://ih1.redbubble.net/image.1895791012.1981/flat,128x128,075,f-pad,128x128,f8f8f8.jpg",
+    "alt": "Peras",
+    "titulo": "Peras",
+    "texto": "ricas peras",
+    "link": "http://jumex.com",
+    "inb": "Ver peras"
+  },
+  {
+    "id": 3,
+    "imag": "https://ih1.redbubble.net/image.1895791012.1981/flat,128x128,075,f-pad,128x128,f8f8f8.jpg",
+    "alt": "Sandias",
+    "titulo": "Sandias",
+    "texto": "ricas sandias",
+    "link": "http://jumex.com",
+    "inb": "Ver sandías"
+  }
+]

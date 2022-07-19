@@ -1,6 +1,5 @@
-
 .cuerpo {
-    background-color: green;
+    color: black    ;
     padding: 20px;
     flex-wrap: wrap;
     justify-content: center;

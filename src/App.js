@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Cabecera from "./components/templates/Cabecera"
+import Contenido from "./components/templates/Contenido";
+import Pie from "./components/templates/Pie";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Cabecera title="Pagina en componentes"/>
+      <Contenido />
+      <Pie />
     </div>
   );
 }
